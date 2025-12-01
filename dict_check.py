@@ -1,4 +1,4 @@
-key_check="b0"
+key_check="b"
 my_dict={"a":"aa","b":"bb","c":"cc"}
 if key_check in my_dict:
     print("Key is available")
